@@ -28,14 +28,14 @@ createRoot(document.getElementById("root")).render(
             <Services />
 
             {/* </div> */}
-            <Title
+            {/* <Title
                 subTitle="Our Research and Insights on Policy"
                 Title="Insights"
             />
-            <Insights />
+            <Insights /> */}
 
-            <Title subTitle="Explore a bright future..." Title="Career" />
-            <Career />
+            {/* <Title subTitle="Explore a bright future..." Title="Career" />
+            <Career /> */}
             <Title subTitle="Contact Us" Title="Get in Touch" />
             <Contact />
             <Footer />
